@@ -1,4 +1,4 @@
-rootProject.name = 'FIREDEMO'
+rootProject.name = 'FIRE-DEMO'
 
 dependencyResolutionManagement {
   versionCatalogs {

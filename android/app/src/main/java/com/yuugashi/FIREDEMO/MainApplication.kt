@@ -1,4 +1,4 @@
-package com.firedemo
+package com.yuugashi.FIREDEMO
 
 import android.app.Application
 import android.content.res.Configuration

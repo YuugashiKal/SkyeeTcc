@@ -2,6 +2,14 @@
   "expo": {
     "name": "FIRE-DEMO",
     "slug": "FIRE-DEMO",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "93e1b1d2-79a2-401b-8027-55296358a595"
+      }
+    },
+    "android": {
+      "package": "com.yuugashi.FIREDEMO"
+    }
   }
 }

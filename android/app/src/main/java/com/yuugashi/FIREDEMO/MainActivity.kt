@@ -1,4 +1,4 @@
-package com.firedemo
+package com.yuugashi.FIREDEMO
 
 import android.os.Build
 import android.os.Bundle
